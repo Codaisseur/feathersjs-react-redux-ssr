@@ -30,6 +30,7 @@
     "babel-types": "^6.2.0",
     "bluebird": "^2.10.0",
     "body-parser": "^1.15.2",
+    "breakpoint-sass": "^2.7.1",
     "compression": "^1.6.2",
     "cors": "^2.8.1",
     "ejs": "^2.3.4",
